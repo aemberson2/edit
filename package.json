@@ -1,0 +1,10 @@
+{
+  "name": "talking-head-editor",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@expo-google-fonts/montserrat": "0.4.2",
+    "hyperframes": "0.9.5",
+    "gsap": "3.15.0"
+  }
+}

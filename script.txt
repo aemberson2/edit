@@ -1,0 +1,8 @@
+# Example script. Lines starting with # are ignored. Replace this with your own.
+# A note pops up when you start saying the line it's on.
+# A note alone on its own line belongs to the next line.
+So today I want to show you how I save money every month. [TEXT: How I save $500/mo]
+The first thing you need is a simple budget. [CHART: Monthly spend | Jan 820, Feb 640, Mar 410]
+[PIC: receipt.jpg]
+This is my grocery receipt from last week.
+Follow for part two. [TEXT: Part 2 tomorrow]

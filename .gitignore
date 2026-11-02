@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+vendor/
+build/
+__pycache__/
+*.pyc
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+.DS_Store

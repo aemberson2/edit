@@ -1,0 +1,45 @@
+{
+  "whisper_model": "small.en",
+  "language": "en",
+
+  "cut": {
+    "pad_before": 0.15,
+    "pad_after": 0.25,
+    "max_gap": "auto",
+    "silence_threshold_db": "auto",
+    "retake_similarity": 0.6,
+    "remove_fillers": ["um", "umm", "uh", "uhh", "uhm", "er", "erm", "ah", "ahh", "hmm", "mm", "mhm"],
+    "remove_soft_fillers": false,
+    "soft_fillers": ["like", "you know", "i mean", "basically", "literally"],
+    "keep_doubled_words": ["had", "that", "very", "really", "no", "bye", "ha", "yeah", "so", "go"]
+  },
+
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18,
+    "loudness_lufs": -14
+  },
+
+  "captions": {
+    "enabled": true,
+    "font": "Montserrat ExtraBold",
+    "font_size": 92,
+    "max_words": 3,
+    "uppercase": true,
+    "color": "#FFFFFF",
+    "highlight_color": "#FFE14D",
+    "outline": 7,
+    "y": 1230
+  },
+
+  "popups": {
+    "zone": "top",
+    "min_duration": 2.5,
+    "max_duration": 5.0,
+    "accent_color": "#FFE14D",
+    "card_color": "#FFFFFF",
+    "text_color": "#111111"
+  }
+}
